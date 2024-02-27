@@ -43,6 +43,11 @@ const deleteItem = (id) => {
   const index = data.items.indexOf(itemToDelete);
   data.items.splice(index, 1);
 };
+
+function test1() {
+  console.log('1');
+}
+test1();
 </script>
 
 <template>

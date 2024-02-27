@@ -48,6 +48,18 @@ function test1() {
   console.log('1');
 }
 test1();
+function test2() {
+  console.log('1');
+}
+test2();
+function test3() {
+  console.log('1');
+}
+test3();
+function test4() {
+  console.log('1');
+}
+test4();
 </script>
 
 <template>
